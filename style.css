@@ -468,10 +468,10 @@ a{
   transition: 0.4s;
 }
 .educ1:hover{
-  background-color: #E5E5E5;
+  box-shadow: 8px 8px 25px rgba(0, 0, 0, 0.2);
 }
 .work1:hover{
-  background-color: #E5E5E5;
+  box-shadow: 8px 8px 25px rgba(0, 0, 0, 0.2);
 }
 .work_right img{
   width: 25px;
@@ -622,7 +622,7 @@ a{
   transition: 0.3s;
 }
 .question:hover{
-  background-color: #222222;
+  box-shadow: 20px 20px 30px rgba(77, 77, 77, 0.2);
   border-radius: 4px;
 }
 .question img{
